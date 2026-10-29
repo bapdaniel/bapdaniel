@@ -1,8 +1,8 @@
-# Olá, eu sou Daniel Henrique 👋
+# Olá, eu sou Daniel Henrique
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul, com formação prevista para agosto de 2028.
 
-Estou construindo uma base prática em lógica de programação, Python, HTML, CSS, JavaScript, Git, GitHub, SQL e SQLite. Busco minha primeira oportunidade de **estágio 100% remoto** em tecnologia.
+Estou construindo uma base prática em lógica de programação, Python, HTML, CSS, JavaScript, Git, GitHub, SQL e SQLite. Busco minha primeira oportunidade de **estágio** em tecnologia.
 
 ## Projetos em destaque
 
