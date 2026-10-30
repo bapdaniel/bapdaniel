@@ -1,4 +1,4 @@
-# Olá, eu sou Daniel Henrique
+# Olá, eu sou o Daniel Henrique
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul, com formação prevista para agosto de 2028.
 
