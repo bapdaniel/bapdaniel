@@ -66,7 +66,8 @@ Aplicativo Android nativo e offline que desenvolvi com foco em simplicidade, leg
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul · set/2026 a ago/2028 (previsão);
 - **Agentes de IA: do Zero à Prática** — Fundação Bradesco · em andamento;
-- **Fundamentos de Inteligência Artificial Generativa em Marketing** — USP · em andamento;
+- **Accenture - Python para Análise e Automação de Dados** — DIO · em andamento;
+- **Santander - Dados com Python e IA** — DIO · em andamento;
 - **IA na Prática: Como Dados Bem Estruturados Fazem a Diferença** — concluído;
 - inglês intermediário, com foco em leitura técnica.
 
