@@ -42,7 +42,7 @@ Aplicativo Android nativo e offline que desenvolvi com foco em simplicidade, leg
 - desenvolvimento conduzido por mim com apoio de IA em pesquisa, implementação, revisão, testes e documentação.
 
 [![Ver projeto](https://img.shields.io/badge/ABRIR_PROJETO-SOL%2B-F59E0B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bapdaniel/solplus-android)
-[![CI](https://img.shields.io/github/actions/workflow/status/bapdaniel/solplus-android/android.yml?branch=main&style=for-the-badge&label=Android%20CI)](https://github.com/bapdaniel/solplus-android/actions)
+[![Android CI](https://github.com/bapdaniel/solplus-android/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/bapdaniel/solplus-android/actions/workflows/android.yml)
 
 ## Outros projetos
 
