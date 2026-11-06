@@ -1,6 +1,6 @@
 <div align="center">
 
-![Daniel Henrique — ADS, desenvolvimento e IA aplicada com critério](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,52:0F766E,100:F59E0B&height=225&section=header&text=Daniel%20Henrique&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ADS%20%E2%80%A2%20Desenvolvimento%20%E2%80%A2%20IA%20aplicada%20com%20crit%C3%A9rio&descAlignY=56&descSize=18)
+![Daniel Baptista — ADS, desenvolvimento e IA aplicada com critério](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,52:0F766E,100:F59E0B&height=225&section=header&text=Daniel%20Henrique&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ADS%20%E2%80%A2%20Desenvolvimento%20%E2%80%A2%20IA%20aplicada%20com%20crit%C3%A9rio&descAlignY=56&descSize=18)
 
 [![Texto animado: projetos testáveis, IA com contexto e busca por estágio](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=850&lines=Transformo+problemas+em+projetos+test%C3%A1veis.;Uso+IA+com+contexto%2C+crit%C3%A9rios+e+revis%C3%A3o+humana.;Busco+est%C3%A1gio+em+TI+e+Intelig%C3%AAncia+Artificial.)](https://git.io/typing-svg)
 
