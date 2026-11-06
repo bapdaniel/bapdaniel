@@ -14,7 +14,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul, com formação prevista para **agosto de 2028**. Estou construindo minha base por meio de projetos que conectam lógica, desenvolvimento, bancos de dados, automação e testes.
 
-Busco minha primeira oportunidade de **estágio em Tecnologia da Informação e Inteligência Artificial**. Tenho interesse em desenvolvimento, suporte e automação — ambientes nos quais eu possa aprender com o time, organizar problemas e transformar conhecimento em entregas verificáveis.
+Busco minha primeira oportunidade de **estágio em Tecnologia da Informação e Inteligência Artificial**. Tenho interesse em desenvolvimento, suporte e automação; ambientes nos quais eu possa aprender com o time, organizar problemas e transformar conhecimento em entregas verificáveis.
 
 > Meu objetivo não é apenas fazer o código funcionar. Quero entender o problema, definir critérios, testar o resultado e saber explicar as decisões tomadas.
 
