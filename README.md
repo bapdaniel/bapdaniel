@@ -1,6 +1,6 @@
 ![Daniel Baptista, em pixel art, veste camiseta preta, jeans e tênis e puxa o Bug Final com uma corrente para um portal roxo. A luta termina com FATALITY e BUG CORRIGIDO.](assets/profile/get-over-here-daniel-bug-final-4k(1).gif)
 
-Sou o Daniel. Faço ADS e, quando quero entender uma coisa nova, tento colocar ela num projeto. Tô estudando Python e SQL e buscando meu primeiro estágio em TI.
+Sou o Daniel. Faço ADS, tô estudando Python e SQL e buscando meu primeiro estágio em TI. Uso IA também. 
 
 <p>
   <a href="https://www.linkedin.com/in/bapdaniel/"><img src="assets/profile/linkedin.png" alt="LinkedIn" width="120"></a>
