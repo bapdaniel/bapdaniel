@@ -1,4 +1,4 @@
-![Daniel Baptista, em pixel art, veste camiseta preta, jeans e tênis e puxa o Bug Final com uma corrente para um portal roxo. A luta termina com FATALITY e BUG CORRIGIDO.](assets/profile/fatality-03-corrente.gif)
+![Daniel Baptista, em pixel art, veste camiseta preta, jeans e tênis e puxa o Bug Final com uma corrente para um portal roxo. A luta termina com FATALITY e BUG CORRIGIDO.](assets/profile/get-over-here-daniel-bug-final-4k(1).gif)
 
 Sou o Daniel, de Palmas. Faço ADS e, quando quero entender uma coisa nova, tento colocar ela num projeto. Tô estudando Python e SQL e buscando meu primeiro estágio em TI.
 
